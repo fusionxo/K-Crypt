@@ -59,6 +59,3 @@ Privacy-conscious users, journalists, developers, or anyone who wants **enterpri
 This isn’t just a tool
 It’s **digital craftsmanship**, where **security meets art**.
 
----
-
-Let me know if you want a version tailored for a GitHub repo (with badges, install instructions, or deployment tips).
